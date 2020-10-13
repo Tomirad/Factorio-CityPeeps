@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-09-29
+
+  Features:
+    - New buildings:  
+		City, 
+		Tradehub, 
+		Research Center, 
+		Academy, 
+		Train Depot
+
+  Changes:
+    - Initial Release
+
+  Locale:
+    - Supports English only so far
+
+  Compatibility:
+    - This mod has no strict dependencies.  All prototypes are intended to be unique and it can be 
+	  ran standalone.
+	- AAI Industry - Will use glass/sand from AAI Industry if that mod is present.
+---------------------------------------------------------------------------------------------------

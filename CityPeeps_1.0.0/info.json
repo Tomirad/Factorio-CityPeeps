@@ -1,0 +1,10 @@
+{
+	"name": "CityPeeps",
+	"version": "1.0.0",
+	"title": "CityPeeps",
+	"author": "Rookhaven",
+	"homepage": "https://github.com/rookhaven/Factorio-CityPeeps",
+	"description": "Give peeps a better life in gleaming cities on this new world!  Provide for your citizens needs, export goods and research, train students to become officers, and transport passengers to glittering resorts to generate the credits that will fuel your mad machine.  Do all of this in the name of growing your galactic renown!  The sky's the limit for a capable colonial governor, so good luck young marooned captain and may the farce be with you!",
+	"factorio_version": "1.0",
+	"dependencies": [ "base >= 1.0.0" ]
+}
